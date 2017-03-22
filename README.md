@@ -1,4 +1,4 @@
-# Blockstack Proofs
+# Blockstack Proofs (DEPRECATED)
 
 [![npm](https://img.shields.io/npm/l/blockstack-proofs.svg)](https://www.npmjs.com/package/blockstack-proofs)
 [![npm](https://img.shields.io/npm/v/blockstack-proofs.svg)](https://www.npmjs.com/package/blockstack-proofs)
